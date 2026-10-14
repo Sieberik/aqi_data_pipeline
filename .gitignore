@@ -1,0 +1,13 @@
+# Ignore the Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore local run data feeds or databases
+data/
+*.json
+*.db
+
+# Ignore VS Code internal settings
+.vscode/
